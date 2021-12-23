@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://ec2-52-18-185-208.eu-west-1.compute.amazonaws.com:5432/da8ah4kpupp9k3
+    username: vbrseoibvposht
+    password: 02432d2c8918dd1ff2b6340b7161ab2e22b8c77de31c64c6a45d8389f20541f2
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    generate-ddl: true
