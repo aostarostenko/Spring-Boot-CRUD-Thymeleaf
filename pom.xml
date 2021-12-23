@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.demo</groupId>
-	<artifactId>thymeleaf</artifactId>
+	<artifactId>demo</artifactId>
 	<version>0.0.1</version>
 	<name>SpringBootEmail</name>
 	<description>Demo project for Spring Boot Email</description>

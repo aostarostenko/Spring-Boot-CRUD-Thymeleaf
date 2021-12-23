@@ -1,6 +1,6 @@
-package com.devnakka.thymeleaf.repository;
+package com.demo.thymeleaf.repository;
 
-import com.devnakka.thymeleaf.model.Student;
+import com.demo.thymeleaf.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

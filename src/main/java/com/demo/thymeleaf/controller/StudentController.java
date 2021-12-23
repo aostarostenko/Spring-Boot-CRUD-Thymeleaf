@@ -1,7 +1,7 @@
-package com.devnakka.thymeleaf.controller;
+package com.demo.thymeleaf.controller;
 
-import com.devnakka.thymeleaf.model.Student;
-import com.devnakka.thymeleaf.repository.StudentRepository;
+import com.demo.thymeleaf.model.Student;
+import com.demo.thymeleaf.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

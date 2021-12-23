@@ -1,4 +1,4 @@
-package com.devnakka.thymeleaf.model;
+package com.demo.thymeleaf.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
